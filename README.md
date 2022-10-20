@@ -1,8 +1,8 @@
-# Magireti for iOS
+# Maigret for iOS
 
 Maigret is a command project well know for collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages. No API keys required. Currently supported more than 2500 sites.
 
-MaigretiOS is an ready to use on you iPhone and powerful fork of [Magireti](https://github.com/soxoj/maigret) 
+MaigretiOS is an ready to use app on you iPhone and powerful fork of [Magireti](https://github.com/soxoj/maigret) 
 
 ## Main features
 
@@ -15,7 +15,7 @@ MaigretiOS is an ready to use on you iPhone and powerful fork of [Magireti](http
 
 
 ## Installation
-You try maigret on App Store immediately, and if you have iOS developer access, you can compile it yourself (will opensource later.).
+You try Maigret on App Store immediately, and if you have iOS developer access, you can compile it yourself (will opensource later.).
 
 ### 1. get Magireti from App Store 
 
@@ -27,7 +27,7 @@ You try maigret on App Store immediately, and if you have iOS developer access, 
 
 ![QR](https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/f7e7c29ee0ceb3a382f8a6192aff24ca/7170c291c6d18c88a1703f54d9249176.png)
 
-#### 3. Search with keyword **magireti** on AppStore
+#### 3. Search with keyword **Maigret** on AppStore
 
 ## 2. Compile via xcode
 
